@@ -29,3 +29,13 @@ RAG-as-a-Services:
 
 - https://ragaas.dev/
 - https://www.ragie.ai/
+
+For more see [[RAG]]
+
+## Glossary
+
+### SFT
+
+Supervised fine tuning
+
+See https://cameronrwolfe.substack.com/p/understanding-and-using-supervised
